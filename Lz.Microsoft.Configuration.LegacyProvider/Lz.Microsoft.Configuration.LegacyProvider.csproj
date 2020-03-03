@@ -10,7 +10,7 @@
     <PackageProjectUrl>https://github.com/LazaroOnline/Lz.Microsoft.Configuration.LegacyProvider</PackageProjectUrl>
     <RepositoryUrl>https://github.com/LazaroOnline/Lz.Microsoft.Configuration.LegacyProvider</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>microsoft, custom, configuration, provider, legacy, web.config, app.config</PackageTags>
+    <PackageTags>microsoft custom configuration provider legacy web.config app.config</PackageTags>
     <Description>Configuration provider for IConfigurationBuilder that adds the config from the old web.config/app.config legacy configurations.</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
