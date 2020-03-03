@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using Microsoft.Extensions.Configuration;
 
-namespace Lz.Microsoft.Configuration.LegacyProvider
+namespace Microsoft.Extensions.Configuration
 {
     /// <summary>
     /// Configuration provider for IConfigurationBuilder that adds the config from the old web.config/app.config legacy configurations.
