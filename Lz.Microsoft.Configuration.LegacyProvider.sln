@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lz.Microsoft.Configuration.LegacyProvider", "Lz.Microsoft.Configuration.LegacyProvider\Lz.Microsoft.Configuration.LegacyProvider.csproj", "{0410465C-4338-41DF-B011-F3FA2BC49380}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lz.Microsoft.Configuration.LegacyProvider", "Lz.Microsoft.Configuration.LegacyProvider\Lz.Microsoft.Configuration.LegacyProvider.csproj", "{0410465C-4338-41DF-B011-F3FA2BC49380}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2C9824D7-D461-4CC5-8357-6676D44F72C8}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
